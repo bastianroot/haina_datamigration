@@ -1,0 +1,5729 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<?fr-application created="FastReport"?>
+<?fr-application homesite="http://www.fast-report.com"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Title></Title>
+<Author></Author>
+<Version>...</Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="s0">
+<Font ss:FontName="Arial" ss:Size="10" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="0" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s1">
+<Font ss:FontName="Tahoma" ss:Size="18" ss:Color="#000000" ss:Bold="1"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Font ss:FontName="Tahoma" ss:Size="14" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s3">
+<Font ss:FontName="Arial" ss:Size="10" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s4">
+<Font ss:FontName="Arial" ss:Size="8" ss:Color="#000000" ss:Bold="1"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s5">
+<Font ss:FontName="Arial" ss:Size="1" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="0" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+</Borders>
+</Style>
+<Style ss:ID="s6">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="0" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s7">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="0" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s8">
+<Font ss:FontName="Arial" ss:Size="10" ss:Color="#000000"/>
+<Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="Page1">
+<Table ss:ExpandedColumnCount="38" ss:ExpandedRowCount="180" x:FullColumns="1" x:FullRows="1">
+<Column ss:AutoFitWidth="0" ss:Width="0.63"/>
+<Column ss:AutoFitWidth="0" ss:Width="7.09"/>
+<Column ss:AutoFitWidth="0" ss:Width="51.97"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.46"/>
+<Column ss:AutoFitWidth="0" ss:Width="3.47"/>
+<Column ss:AutoFitWidth="0" ss:Width="16.05"/>
+<Column ss:AutoFitWidth="0" ss:Width="21.26"/>
+<Column ss:AutoFitWidth="0" ss:Width="28.35"/>
+<Column ss:AutoFitWidth="0" ss:Width="30.71"/>
+<Column ss:AutoFitWidth="0" ss:Width="25.98"/>
+<Column ss:AutoFitWidth="0" ss:Width="56.28"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.90"/>
+<Column ss:AutoFitWidth="0" ss:Width="1.88"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.97"/>
+<Column ss:AutoFitWidth="0" ss:Width="28.35"/>
+<Column ss:AutoFitWidth="0" ss:Width="3.75"/>
+<Column ss:AutoFitWidth="0" ss:Width="1.95"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.35"/>
+<Column ss:AutoFitWidth="0" ss:Width="37.86"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.71"/>
+<Column ss:AutoFitWidth="0" ss:Width="3.34"/>
+<Column ss:AutoFitWidth="0" ss:Width="10.49"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.33"/>
+<Column ss:AutoFitWidth="0" ss:Width="23.64"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.50"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.84"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.50"/>
+<Column ss:AutoFitWidth="0" ss:Width="31.94"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.03"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.85"/>
+<Column ss:AutoFitWidth="0" ss:Width="3.45"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.11"/>
+<Column ss:AutoFitWidth="0" ss:Width="42.52"/>
+<Column ss:AutoFitWidth="0" ss:Width="1.04"/>
+<Column ss:AutoFitWidth="0" ss:Width="1.58"/>
+<Column ss:AutoFitWidth="0" ss:Width="0.78"/>
+<Column ss:AutoFitWidth="0" ss:Width="2.36"/>
+<Row ss:Height="5.49">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="21.97">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" ss:MergeAcross="13" ss:StyleID="s1" >
+<Data ss:Type="String">EGE Haina, S.A.</Data>
+</Cell>
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="5.49">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="16.48">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" ss:MergeAcross="13" ss:StyleID="s2" >
+<Data ss:Type="String">Reporte de Inventario</Data>
+</Cell>
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="2.75">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="8.24">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" ss:MergeAcross="13" ss:MergeDown="1" ss:StyleID="s3" >
+<Data ss:Type="String">ALM PARQUE GIRA al 08/31/2022</Data>
+</Cell>
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="5.49">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="9.29">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="13.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s4" >
+<Data ss:Type="String">Código</Data>
+</Cell>
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" ss:MergeAcross="1" ss:StyleID="s4" >
+<Data ss:Type="String">Descripción</Data>
+</Cell>
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" ss:MergeAcross="5" ss:StyleID="s4" >
+<Data ss:Type="String">Cantidad</Data>
+</Cell>
+<Cell ss:Index="18" />
+<Cell ss:Index="19" ss:StyleID="s4" >
+<Data ss:Type="String">CostoRD</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s4" >
+<Data ss:Type="String">CostoUS</Data>
+</Cell>
+<Cell ss:Index="27" />
+<Cell ss:Index="28" ss:MergeAcross="3" ss:StyleID="s4" >
+<Data ss:Type="String">STotalRD</Data>
+</Cell>
+<Cell ss:Index="32" />
+<Cell ss:Index="33" ss:StyleID="s4" >
+<Data ss:Type="String">STotalUS</Data>
+</Cell>
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="2.99">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" ss:MergeAcross="35" ss:StyleID="s5" >
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="5.33">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-19-MIS-EMP 240/400MM²</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">EMPALME PARA CABLE MT DE 240/400MM²</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">39649.75</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">717.77</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">39649.75</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">717.77</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">2020-A20255</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">SECCION DE VARA NO. 2</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6010.92</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">111.42</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6010.92</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">111.42</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">2020-A20256</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">SECCION DE VARA NO. 1</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">7339.60</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">136.04</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">7339.60</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">136.04</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">2022-LGK2248- 3</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">BOLSA DE GUANTE EN VINILO 18&quot;/8&quot;L X 4&quot;W X18&quot;H</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">3.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2164.06</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">40.11</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6492.18</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">120.34</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">LAB-26-REA-ALC99%</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ALCOHOL ISOPROPILICO AL 99% EN GLS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1090.32</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">19.79</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4361.28</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">79.15</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">MEC-27-MIS-CEPA1X7</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">CEPILLO DE ACERO 1&quot; X 7&quot;  CON MONTURA DE MADERA</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">3.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">125.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.26</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">375.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.79</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">MAT-DISCOC41/2X5/8X1/16</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">DISCO DE CORTE DE 4 1/2'' X 5/8'' X 1/16''</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">115.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.08</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">690.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12.49</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-CABLEMTR</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">CABLE COMPL PARO MOTOR</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">625.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">11.17</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">625.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">11.17</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-CUCH-SFBCS</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ARRASTRADOR CUCHILLA CENTRAL BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">7.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2787.50</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">50.30</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">19512.50</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">352.10</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-DIENTE-BCS622</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">DIENTE SEMIFINO DOBLE BCS 622</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1800.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">32.44</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1800.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">32.44</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-GRAS02</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GRASA CEPSA 15W-40</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">460.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">8.35</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">460.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">8.35</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-M12X1.25</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TUERCA M12X1.25 BCS 720</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">25.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.45</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">50.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.91</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-M16/150</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TUERCA CONICA M16/150 AJUSTABLE ARRASTRADOR</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">14.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">125.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.27</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1750.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">31.72</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-M8X30</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO M8X30 BCS 622-B/DUPLEX</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">10.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.22</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">120.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.18</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-PASADOR</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">PASADOR BCS 720 VIEJA</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">225.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4.08</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1350.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">24.50</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-PERNO</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">PERNO EXAGONAL SEP LLEVA MANDO BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">725.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">13.16</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4350.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">78.95</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-RET15X28X7</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">RETENEDORA 15X28X7 BCS 720</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">350.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.34</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">700.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12.67</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-TEM10X25</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO TE M10X25 3CS 622-720-B/DUPLE</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">29.17</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.53</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">350.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.34</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-TORBCS622</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO BCS 622</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">25.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.45</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">100.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.81</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTG-TORNM16/150</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO M16/150 AJUSTE ARRASTRADOR BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">15.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">198.33</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">3.59</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2975.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">53.92</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTOSEG-CUCH1.45SF</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">CUCHILLA CENTRAL 1.45 SF REFOR</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">5250.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">97.31</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">10500.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">194.62</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTOSEG-GRAS01</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GRASA CEPSA 80W90 (1 LITRO)</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">3.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">406.67</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">7.37</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1220.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">22.10</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTOSEG-PEINE</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TRANSMSION PARA PEINE BCS 740 LARGA</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">37400.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">668.22</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">37400.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">668.22</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTOSEG-TORN01</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO B/DUPLEX BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">10.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">35.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.63</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">350.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6.34</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTOSEG-TORN02</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO TE M10X35 BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">30.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.54</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">60.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.09</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTSG-CBL-BCS01</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">CABLE EMBRAGUE 155MM BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">690.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12.33</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">690.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12.33</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-MTSG-CBL-BCS02</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">CABLE EMBRAGUE 1500MM BCS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">740.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">13.22</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">740.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">13.22</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-PRENS-TRUPER5&quot;</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TORNILLO DE BANCO TRUPER DE 5&quot;, 100240</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4949.40</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">88.43</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4949.40</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">88.43</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GOR-MTG-CABLE-GX270/390</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">CABÑE ACELERADOR GX270/390</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">800.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">14.29</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">800.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">14.29</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">SEG-28-MIS-GAB007</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ESTACION LOTO DE 36 CANDADOS</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">74905.96</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1388.43</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">74905.96</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1388.43</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#16</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 16&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">5000.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.45</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.04</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">12251.94</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">221.79</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#18</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 18&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">5000.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">3.85</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.07</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">19249.93</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">348.48</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#21</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 21&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">5000.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4.16</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.08</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">20789.83</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">376.35</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#4</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 4&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4200.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.18</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.02</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4956.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">89.41</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#8</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 8&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4900.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.06</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.04</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">10118.50</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">182.55</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">PINT-AMARILLOTRAF</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">PINTURA AMARILLO TRAFICO</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">8.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2026.82</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">37.57</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">16214.56</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">300.55</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#06</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 6&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">5000.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.18</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.02</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">5900.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">106.44</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="6.90">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="13.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s4" >
+<Data ss:Type="String">Código</Data>
+</Cell>
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" ss:MergeAcross="1" ss:StyleID="s4" >
+<Data ss:Type="String">Descripción</Data>
+</Cell>
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" ss:MergeAcross="5" ss:StyleID="s4" >
+<Data ss:Type="String">Cantidad</Data>
+</Cell>
+<Cell ss:Index="18" />
+<Cell ss:Index="19" ss:StyleID="s4" >
+<Data ss:Type="String">CostoRD</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s4" >
+<Data ss:Type="String">CostoUS</Data>
+</Cell>
+<Cell ss:Index="27" />
+<Cell ss:Index="28" ss:MergeAcross="3" ss:StyleID="s4" >
+<Data ss:Type="String">STotalRD</Data>
+</Cell>
+<Cell ss:Index="32" />
+<Cell ss:Index="33" ss:StyleID="s4" >
+<Data ss:Type="String">STotalUS</Data>
+</Cell>
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="2.99">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" ss:MergeAcross="35" ss:StyleID="s5" >
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="5.33">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ELE-25-MIS-TIERAP#10</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TIE WRAP DE 10&quot;</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4500.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.48</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">0.03</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">6637.50</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">119.75</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-ELE-GRCONT</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">TUBO GRASA DE CONTACTO UPREXAL AL-CU</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">2.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4543.00</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">82.24</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">9086.00</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">164.48</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="1.86">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">GIR-ELEC-ETQ-TICKET</Data>
+</Cell>
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="12.85">
+<Cell ss:Index="5" />
+<Cell ss:Index="6" ss:MergeAcross="6" ss:MergeDown="1" ss:StyleID="s6" >
+<Data ss:Type="String">ETIQUETA DE ALAMBRE DE VINILO</Data>
+</Cell>
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">1.00</Data>
+</Cell>
+<Cell ss:Index="16" />
+<Cell ss:Index="17" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4689.32</Data>
+</Cell>
+<Cell ss:Index="20" />
+<Cell ss:Index="21" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">84.60</Data>
+</Cell>
+<Cell ss:Index="25" />
+<Cell ss:Index="26" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">4689.32</Data>
+</Cell>
+<Cell ss:Index="31" />
+<Cell ss:Index="32" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s7" >
+<Data ss:Type="Number">84.60</Data>
+</Cell>
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.89">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="16" />
+<Cell ss:Index="20" />
+<Cell ss:Index="25" />
+<Cell ss:Index="31" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="3.88">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="0.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" ss:MergeAcross="34" ss:StyleID="s5" >
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="9.13">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" />
+<Cell ss:Index="12" />
+<Cell ss:Index="13" />
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" />
+<Cell ss:Index="25" />
+<Cell ss:Index="26" />
+<Cell ss:Index="27" />
+<Cell ss:Index="28" />
+<Cell ss:Index="29" />
+<Cell ss:Index="30" />
+<Cell ss:Index="31" />
+<Cell ss:Index="32" />
+<Cell ss:Index="33" />
+<Cell ss:Index="34" />
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+<Row ss:Height="13.73">
+<Cell ss:Index="1" />
+<Cell ss:Index="2" />
+<Cell ss:Index="3" />
+<Cell ss:Index="4" />
+<Cell ss:Index="5" />
+<Cell ss:Index="6" />
+<Cell ss:Index="7" />
+<Cell ss:Index="8" />
+<Cell ss:Index="9" />
+<Cell ss:Index="10" />
+<Cell ss:Index="11" ss:MergeAcross="2" ss:StyleID="s8" >
+<Data ss:Type="String">Totales --&gt;</Data>
+</Cell>
+<Cell ss:Index="14" />
+<Cell ss:Index="15" />
+<Cell ss:Index="16" />
+<Cell ss:Index="17" />
+<Cell ss:Index="18" />
+<Cell ss:Index="19" />
+<Cell ss:Index="20" />
+<Cell ss:Index="21" />
+<Cell ss:Index="22" />
+<Cell ss:Index="23" />
+<Cell ss:Index="24" ss:MergeAcross="4" ss:StyleID="s7" >
+<Data ss:Type="Number">340570.17</Data>
+</Cell>
+<Cell ss:Index="29" />
+<Cell ss:Index="30" ss:MergeAcross="4" ss:StyleID="s7" >
+<Data ss:Type="Number">6204.51</Data>
+</Cell>
+<Cell ss:Index="35" />
+<Cell ss:Index="36" />
+<Cell ss:Index="37" />
+<Cell ss:Index="38" />
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<PageMargins x:Bottom="0.38" x:Left="0.38" x:Right="0.38" x:Top="0.38"/>
+</PageSetup>
+<Print>
+<ValidPrinterInfo/>
+<PaperSizeIndex>1</PaperSizeIndex>
+</Print>
+</WorksheetOptions>
+<PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+<RowBreaks>
+<RowBreak>
+<Row>160</Row>
+</RowBreak>
+</RowBreaks>
+</PageBreaks>
+</Worksheet>
+</Workbook>
